@@ -1,0 +1,106 @@
+{
+  GivenName ALBERT DING FA,
+  FamilyName ANG,
+  HasAnActiveBooking true,
+  CustomerId 110191454585,
+  BuildingName Thurso Street,
+  Email 110191454585@dummy.com,
+  University UNIV255,
+  HomeCountry MYS,
+  Course Medicine,
+  TenancyType 0,
+  CurrentLocation [
+    {
+      Id 97541,
+      Name 202 ROOM C - 202,
+      LocationType Residential
+    },
+    {
+      Id 97536,
+      Name Kitchen - 202,
+      LocationType Residential
+    },
+    {
+      Id 97537,
+      Name Lounge - 202,
+      LocationType Residential
+    },
+    {
+      Id 97538,
+      Name Corridor - 202,
+      LocationType Residential
+    },
+    {
+      Id 97524,
+      Name Corridor - SECOND FLOOR,
+      LocationType Communal
+    },
+    {
+      Id 97456,
+      Name Common Room - Thurso Street,
+      LocationType Communal
+    },
+    {
+      Id 97457,
+      Name Reception - Thurso Street,
+      LocationType Communal
+    },
+    {
+      Id 97458,
+      Name Corridor - Thurso Street,
+      LocationType Communal
+    },
+    {
+      Id 97459,
+      Name Other - Thurso Street,
+      LocationType Communal
+    },
+    {
+      Id 97460,
+      Name Games Room - Thurso Street,
+      LocationType Commercial
+    },
+    {
+      Id 97461,
+      Name Launderette - Thurso Street,
+      LocationType Commercial
+    },
+    {
+      Id 97462,
+      Name Gym - Thurso Street,
+      LocationType Commercial
+    }
+  ],
+  MaintenanceServiceTypes [
+    {
+      ServiceId 2,
+      Service Electrical
+    },
+    {
+      ServiceId 4,
+      Service Flooring
+    },
+    {
+      ServiceId 5,
+      Service Glazing
+    },
+    {
+      ServiceId 3,
+      Service Heating
+    },
+    {
+      ServiceId 19,
+      Service Light Bulbs
+    },
+    {
+      ServiceId 6,
+      Service Plastering
+    },
+    {
+      ServiceId 1,
+      Service Plumbing
+    }
+  ],
+  AcademicYear 2013-2014,
+  NotificationCount 0
+}
